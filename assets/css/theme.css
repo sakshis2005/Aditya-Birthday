@@ -9,12 +9,12 @@
 }
 
 body.theme-dark {
-  --bg: #0e0f13;
-  --text: #e9e9ef;
-  --muted: #a0a0ac;
-  --card: #151622;
+  --bg: #fc8eac;
+  --text: #fff;
+  --muted: #1c1c22;
+  --card: #9a7dff;
   --primary: #9a7dff;
-  --primary-ink: #0e0f13;
+  --primary-ink: #fff;
   --ring: rgba(154, 125, 255, 0.35);
 }
 
