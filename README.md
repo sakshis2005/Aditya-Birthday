@@ -32,8 +32,8 @@ birthday-website/
 │   ├── js/
 │   │   └── theme.js        # Theme toggle logic
 │   ├── img/
-│   │   ├── portraits/      # port1.jpg → port27.jpg
-│   │   ├── landscapes/     # la1.jpg, la2.jpg
+│   │   ├
+│   │   ├── landscapes/     # la1.jpg, la2.jpg , port1.jpg → port27.jpg
 │   │   └── backgrounds/    # Optional background images
 │   └── videos/
 │       ├── V1p.mp4 → V5p.mp4
